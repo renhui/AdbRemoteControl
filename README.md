@@ -1,0 +1,2 @@
+# AdbRemoteControl
+基于Adb技术实现PC远程控制Android设备
